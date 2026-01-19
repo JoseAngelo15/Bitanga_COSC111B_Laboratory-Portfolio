@@ -64,7 +64,9 @@ In completing this activity, our group learned:
 *For a quick view of the logic implemented:*
 ```cpp
 // Array Setup
-int LedPINS[] = {6, 11, 10, 9, 5}; 
+int p8=5;
+int p12=6;
+int LedPINS[] = {p12,11,10,9,p8};
 
 // Example of Fading Logic
 while (brightness <= 255) {
