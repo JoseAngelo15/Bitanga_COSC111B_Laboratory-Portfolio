@@ -18,7 +18,7 @@ The system uses specific threshold logic: an alarm (LED & Buzzer) is triggered *
 * **Output:**
     * Red LED (Visual Alarm)
     * Buzzer (Audible Alarm - Optional integration on same pin)
-* **Resistors:** 10kΩ (for sensor voltage dividers).
+* **Resistors:** 10k Ω (for sensor voltage dividers).
 
 ## 🔌 Circuit & Wiring Details
 The system utilizes the Analog-to-Digital Converter (ADC) pins for the sensors and a Digital PWM pin for the output.
