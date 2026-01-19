@@ -12,7 +12,7 @@ Instructions:
 - We implemented the while() loop function and an array to set the pin modes
   
 2. This github link contains the following:
-- Bitanga_Olano_Paciente_LEDSequentialControlProjectUsingAnalog.ino
+- Bitanga_Olaño_Paciente_LEDSequentialControlProjectUsingAnalog.ino
 - Breadboard diagram. (http://bit.ly/429TSv8)
 - <img width="2400" height="1084" alt="Bitanga_Olano_Paciente_LAB_ACT_2_Working_with_Analog_Signals" src="https://github.com/user-attachments/assets/90d4d443-38c4-4cff-8a8d-56da4da35b5f" />
 - Prompt for Lab Act 2_Bitanga, Olano, Paciente_BSCS-4C
