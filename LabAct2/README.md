@@ -6,9 +6,8 @@ The **Laboratory Activity #2** which builds upon the logic of the previous activ
 Instead of simply turning LEDs on and off, this system uses `analogWrite()` to create a smooth "breathing" or fading effect. The logic is implemented using **Arrays** and **`while` loops** to manage the sequence and pin configurations efficiently.
 
 ## 🎯 Objectives
-* To discuss and implement **analog signals** (simulated via PWM) in an Arduino circuit.
-* To understand the difference between `digitalWrite()` (HIGH/LOW) and `analogWrite()` (0-255).
-* To demonstrate control flow using `while` loops and data management using Arrays.
+* Discuss analog signals and its implementation in a Arduino circuit.
+* Understand analog to digital signal conversion using the map() function.
 
 ## 🛠️ Hardware & Tech Stack
 * **Microcontroller:** Arduino Uno
